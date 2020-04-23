@@ -1,4 +1,4 @@
-
+	
 package translator;
 /**
  * Universidad del Valle de Guatemala
